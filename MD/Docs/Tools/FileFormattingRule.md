@@ -11,10 +11,9 @@
 
 [^3]: image format extension (e.g : tga, png, jpg, etc..)
 
-
-# File formatting rule
+## [Tools](Tools.md)
+# **File formatting rule**
 ## General format
-***
 * Shader Name  
   * Shader name defined from the shader node of the maya hypergraph.
   * Shader name also being the material element name of unreal editor.
@@ -28,7 +27,6 @@
   > {ProjectPath}/sourceimages/{[MaterialTypeTag][material_type_tag]}\_{AssetName}\_{DetailName[^2]}\_{[TextureType][texture_type]}.{TextureImageExtension[^3]}
   
 ## Sections
-***
 * ### **Material type tag**
   * Indicates the type of material as an abbreviation.
   * Basic Format of abbreviation like under below. all section would be one letter.  
