@@ -7,10 +7,4 @@
   1. Download the builded plugin from `Releases`
   2. Unzip and move to unreal project plugin directory.
 
-## Documents  
-* ### [Libraries](./Documents/Libraries/Libraries)
-* ### [Tools](./Documents/Tools/Tools)
-* ### [Rules](./Documents/Rules/Rules)
-
-## Dev Log
-* ### [Timeline](Timeline)
+for more detail, check the [wiki](../../wiki/Home) page.
