@@ -7,4 +7,4 @@
   1. Download the builded plugin from `Releases`
   2. Move to unreal project plugin directory, and unzip.
 
-> ### for more detail, check the [wiki](../../wiki/Home) page.
+* ### for more detail, check the [``wiki``](../../wiki/Home) page. 
